@@ -93,12 +93,6 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ravishan-tharindu&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ravishan-tharindu/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=ravishan-tharindu&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ravishan-tharindu/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ravishan-tharindu&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ravishan-tharindu/web-projects)
-[![ravishan_tharindu Readme](https://github-readme-stats.vercel.app/api/pin/?username=ravishan-tharindu&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ravishan-tharindu/ravishan-tharindu)
-
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
