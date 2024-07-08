@@ -1,12 +1,8 @@
-## Hi there 👋
-
 <div style="background-color: #333333; border-radius: 25px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=056AFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Ravishan;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 <div style="padding-left:50px;padding-right:50px;text-align:center;">
-
-![Header](./headerIMG.png)
 
 </div>
 
@@ -56,3 +52,60 @@
 </div>
 
 <h3 >📚 Libraries & Frameworks </h3>
+<div style="display:inline;">
+    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="spring">&nbsp;
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react">&nbsp;
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next">
+    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="express">&nbsp;
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter">&nbsp;
+    <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".net">&nbsp;
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap">&nbsp;
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="tailwind">&nbsp;
+</div>
+
+<h3 >📁 Databases </h3>
+
+<div style="display:inline;">
+     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongo">&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql">&nbsp;
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="firebase">&nbsp;
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="mssql">&nbsp;
+
+</div>
+
+<h3 >🛠 Tools </h3>
+
+<div style="display:inline;">
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node">&nbsp;
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="spring-boot">&nbsp;
+    <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="wordpress">&nbsp;
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="postman">&nbsp;
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="idea">&nbsp;
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode">&nbsp;
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" alt="android">&nbsp;
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="vs">&nbsp;
+</div>
+
+</div>
+
+<hr style="margin-top:20px;"/>
+
+<div style="margin-left:5%; margin-right:5%;">
+
+
+<p style="font-size:24px;font-weight:bold;margin-top:20px;">⚡️ Stats</p>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=ravishan-tharindu&show_icons=true&theme=holi" alt="stats" style="width:500px;">
+    <img src="https://streak-stats.demolab.com/?user=ravishan-tharindu&theme=holi-theme" alt="streak" style="width:500px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishan-tharindu&layout=donut&theme=holi&langs_count=5" alt="languages" style="width:500px;">
+</div>
+
+</br>
+<p style="font-size:24px;font-weight:bold;margin-top:20px;">📊 Metrics</p>
+
+<div style="padding-bottom:30px;">
+  
+<img src="https://metrics.lecoq.io/ravishan-tharindu" alt="metrics"> 
+
+</div>
