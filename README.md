@@ -2,7 +2,7 @@
 
 <div style="background-color: #333333; border-radius: 25px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=056AFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Buddhima;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=056AFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Ravishan;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 <div style="padding-left:50px;padding-right:50px;text-align:center;">
 
