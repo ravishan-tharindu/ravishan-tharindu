@@ -32,10 +32,10 @@
  <a href="https://lk.linkedin.com/in/ravishan-tharindu-288577167" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ravishan"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ <!-- <a href="https://dev.to/ravishan-tharindu" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ravishan-tharindu" />
  </a> -->
-<!--  <a href="https://twitter.com/_alsiam" target="_blank">
+<!--  <a href="https://twitter.com/_ravishan-tharindu" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
  <a href="https://www.instagram.com/ravishantharindu" target="_blank">
@@ -56,7 +56,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: ravishan.tharindu453@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/ravishan-tharindu/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/ravishan-tharindu/issues)
 
 </p>
 
@@ -94,7 +94,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/ravishan-tharindu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -115,7 +115,7 @@
 
 <a> 
     <a href="https://github.com/ravishan-tharindu"><img alt="Ravishan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ravishan-tharindu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ravishan-tharindu"><img alt="Ravishan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ravishan-tharindu"><img alt="Ravishan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ravishan-tharindu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
